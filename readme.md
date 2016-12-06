@@ -1,8 +1,6 @@
-![](https://seriousseverity.files.wordpress.com/2015/01/topguntocat.png?w=880&h=400&crop=1)
-
-# py_web_lab
-
-> 神奇的Python Web实验室
+<p align="center">
+  <img src="https://seriousseverity.files.wordpress.com/2015/01/topguntocat.png?w=880&h=400&crop=1" width="auto" height="auto" /><br><h1>py_web_lab</h1><br><神奇的Python Web实验室></br>
+</p>
 
 ## 关于 py_web_lab
 **py_web_lab**是为了让木犀新人更好的学习Python web开发而打造的一系列实验, 分为**底层篇**和**应用篇**2个大实验, 每个大实验由若干个目标明确、给出资源和代码的小实验组成. <br/>
