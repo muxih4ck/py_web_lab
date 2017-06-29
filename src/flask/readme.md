@@ -96,4 +96,4 @@ json_available = True
 
 ## CopyRight
 
-> 本文章采用创作共用版权协议, 要求署名、非商业用途和保持一致. 转载本文章必须也遵循署名-非商业用途-保持一致的创作共用协议
+<a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/">Creative Commons Attribution-NonCommercial 4.0 International License</a>.

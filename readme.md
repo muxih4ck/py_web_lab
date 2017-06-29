@@ -53,6 +53,6 @@
 还没想好构建什么应用orz.. 要包含爬虫、数据库(新人向最好是sql)、缓存、API、权限系统、登录验证、TokenAuth、 发送邮件、定时任务, 部署用docker和docker-compose. <br/>
 感觉之前那个同学证件照爬虫就是一个不错的选择😂 , 有爬虫, 有API, 可以加上用户权限比如有些女孩子(好吧,其实是男孩子)的照片只有管理员(也就是我)可以看到, 然后可以给照片点赞, 定时任务可以做定时爬虫, 或者每晚定时发送好看的照片到邮箱(QQ)😄
 
-## CopyLeft
+## CopyRight
 
-@MuxiStudio All Right Received
+<a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/">Creative Commons Attribution-NonCommercial 4.0 International License</a>.
